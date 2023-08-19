@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  {
   "dependencies": {
+    "puppeteer": "^10.4.0" // or whichever the latest version is
   }
+}
+
 }
